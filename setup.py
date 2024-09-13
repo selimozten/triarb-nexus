@@ -29,7 +29,7 @@ setup(
         "hummingbot==1.5.0",
         "python-dotenv==0.19.2",
         "pandas==1.3.5",
-        "numpy==1.21.5",
+        "numpy==1.22.0",
     ],
     entry_points={
         "console_scripts": [
